@@ -83,8 +83,8 @@ p.danger {
 }
 /************ Navbar Css ************/
 .navbar-logo {
-  width: 80px; /* Adjust this value to decrease the size of the logo */
-  height: auto; /* Maintain aspect ratio */
+  width: 80px;
+  height: auto;
 }
 nav.navbar {
   display: flex;
